@@ -1,0 +1,68 @@
+{
+  "updated": "2026-11-18",
+  "animals": [
+    {
+      "name": "宇迦（うか）",
+      "species": "ボールパイソン",
+      "morph": "Pastel Lesser 100% het Clown",
+      "sex": "♀",
+      "status": "繁殖親",
+      "photo": "",
+      "note": ""
+    },
+    {
+      "name": "瀬織（せおり）",
+      "species": "ボールパイソン",
+      "morph": "Pastel Mojave Ghost",
+      "sex": "♀",
+      "status": "繁殖親",
+      "photo": "",
+      "note": ""
+    },
+    {
+      "name": "迦具土（かぐづち）",
+      "species": "ボールパイソン",
+      "morph": "Super Fire / その他の遺伝子は確認中",
+      "sex": "♂",
+      "status": "繁殖親候補",
+      "photo": "",
+      "note": ""
+    },
+    {
+      "name": "火乃（ひの）",
+      "species": "ボールパイソン",
+      "morph": "Fire",
+      "sex": "♀",
+      "status": "繁殖親",
+      "photo": "",
+      "note": ""
+    },
+    {
+      "name": "菊理（くくり）",
+      "species": "ボールパイソン",
+      "morph": "Pastel Mojave Spider 100% het Ghost",
+      "sex": "♀",
+      "status": "繁殖親",
+      "photo": "",
+      "note": ""
+    },
+    {
+      "name": "八雲（やくも）",
+      "species": "コロンビアレインボーボア",
+      "morph": "BEL",
+      "sex": "未確定",
+      "status": "繁殖計画",
+      "photo": "",
+      "note": ""
+    },
+    {
+      "name": "櫛名（くしな）",
+      "species": "コロンビアレインボーボア",
+      "morph": "W het（販売時表記）",
+      "sex": "♀",
+      "status": "繁殖計画",
+      "photo": "",
+      "note": ""
+    }
+  ]
+}
