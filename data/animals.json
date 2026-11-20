@@ -1,5 +1,6 @@
 {
-  "updated": "2026-11-18",
+  "schema_version": "2.1",
+  "updated": "2026-11-20",
   "animals": [
     {
       "name": "宇迦（うか）",
@@ -8,7 +9,23 @@
       "sex": "♀",
       "status": "繁殖親",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "BP-001",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "未検証",
+        "source": "販売時表記・既存台帳記載（個別の根拠資料未登録）"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
     },
     {
       "name": "瀬織（せおり）",
@@ -17,16 +34,48 @@
       "sex": "♀",
       "status": "繁殖親",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "BP-002",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "未検証",
+        "source": "販売時表記・既存台帳記載（個別の根拠資料未登録）"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
     },
     {
-      "name": "迦具土（かぐづち）",
+      "name": "迦具土（かぐつち）",
       "species": "ボールパイソン",
-      "morph": "Super Fire / その他の遺伝子は確認中",
+      "morph": "Super Fire poss Bumble Bee GHI Bongo",
       "sex": "♂",
       "status": "繁殖親候補",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "BP-003",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・追加遺伝子未検証",
+        "source": "Super Fire poss Bumble Bee GHI Bongo（販売時表記）"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
     },
     {
       "name": "火乃（ひの）",
@@ -35,7 +84,23 @@
       "sex": "♀",
       "status": "繁殖親",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "BP-004",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "未検証",
+        "source": "販売時表記・既存台帳記載（個別の根拠資料未登録）"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
     },
     {
       "name": "菊理（くくり）",
@@ -44,25 +109,323 @@
       "sex": "♀",
       "status": "繁殖親",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "BP-005",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "所長確認（2026-11-18）・遺伝学的検証資料未登録",
+        "source": "所長確認：100% het Ghost。het Clownは誤記として訂正"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "天照（あまてらす）",
+      "species": "ボールパイソン",
+      "morph": "Sunset",
+      "sex": "♂",
+      "status": "育成中",
+      "photo": "",
+      "note": "",
+      "id": "BP-006",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "伊邪那岐（いざなぎ）",
+      "species": "ボールパイソン",
+      "morph": "Leopard Clown 100% het Lavender",
+      "sex": "♂",
+      "status": "育成中",
+      "photo": "",
+      "note": "",
+      "id": "BP-007",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "伊邪那美（いざなみ）",
+      "species": "ボールパイソン",
+      "morph": "Leopard Clown 100% het Lavender",
+      "sex": "♀",
+      "status": "育成中",
+      "photo": "",
+      "note": "",
+      "id": "BP-008",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "撫子（なでしこ）",
+      "species": "コーンスネーク",
+      "morph": "ホワイトアウト",
+      "sex": "♀",
+      "status": "現行",
+      "photo": "",
+      "note": "",
+      "id": "CS-001",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "榊（さかき）",
+      "species": "コーンスネーク",
+      "morph": "ホワイトアウト",
+      "sex": "♂推定",
+      "status": "現行",
+      "photo": "",
+      "note": "",
+      "id": "CS-002",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
     },
     {
       "name": "八雲（やくも）",
       "species": "コロンビアレインボーボア",
       "morph": "BEL",
-      "sex": "未確定",
+      "sex": "♂推定",
       "status": "繁殖計画",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "CRB-001",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "未検証",
+        "source": "販売時表記・既存台帳記載（個別の根拠資料未登録）"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
     },
     {
       "name": "櫛名（くしな）",
       "species": "コロンビアレインボーボア",
-      "morph": "W het（販売時表記）",
+      "morph": "ダブルヘテロ（het Leucistic／het T- Albino）",
       "sex": "♀",
       "status": "繁殖計画",
       "photo": "",
-      "note": ""
+      "note": "",
+      "id": "CRB-002",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・遺伝学的検証資料未登録",
+        "source": "原表記：W het（販売時表記）。ダブルヘテロの詳細は要販売者照合"
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "小梅（こうめ）",
+      "species": "セイブシシバナヘビ",
+      "morph": "スノー",
+      "sex": "♀",
+      "status": "現行",
+      "photo": "",
+      "note": "",
+      "id": "WH-001",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "ハム吉（はむきち）",
+      "species": "セイブシシバナヘビ",
+      "morph": "スーパーアナコンダ",
+      "sex": "♂",
+      "status": "現行",
+      "photo": "",
+      "note": "",
+      "id": "WH-002",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "伊吹（いぶき）",
+      "species": "セイブシシバナヘビ",
+      "morph": "イエティ",
+      "sex": "♂",
+      "status": "現行",
+      "photo": "",
+      "note": "",
+      "id": "WH-003",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "姫子（ひめこ）",
+      "species": "カリフォルニアキングスネーク",
+      "morph": "アルビノバンデッド",
+      "sex": "♀",
+      "status": "育成中",
+      "photo": "",
+      "note": "",
+      "id": "CK-001",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "販売時表記・詳細未確認",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "繁殖ライン"
+    },
+    {
+      "name": "寧々（ねね）",
+      "species": "サルバトールモニター",
+      "morph": "マーブルマドゥラ75% × スンバワ25%／66% poss het T-アルビノ",
+      "sex": "未判別",
+      "status": "現行",
+      "photo": "",
+      "note": "",
+      "id": "AWM-001",
+      "display_number": null,
+      "father_id": null,
+      "mother_id": null,
+      "parentage": {
+        "status": "情報なし",
+        "evidence": null
+      },
+      "genotype_evidence": {
+        "status": "所長確認の台帳表記・遺伝的検証未登録",
+        "source": null
+      },
+      "public": true,
+      "origin": "導入個体",
+      "clutch_id": null,
+      "listing_category": "ロマン枠"
     }
   ]
 }
